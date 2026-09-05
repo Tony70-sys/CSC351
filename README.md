@@ -1,2 +1,2 @@
 # CSC351
-Labs for a Machine Learning class
+Projects and labs for a Machine Learning class
